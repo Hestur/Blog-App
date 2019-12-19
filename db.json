@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("5df74cc10cf86d464caa1efa"), 
+    "post_title" : "Titel", 
+    "post_description" : "Kort beskrivelse", 
+    "post_text" : "Brødtext (preview) viser kun de første 20 tegn", 
+    "file" : "blob:http://localhost:3001/cfe0a38a-f133-49d7-b395-de33da345bc8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5df74f8e0cf86d464caa1eff"), 
+    "post_title" : "Test", 
+    "post_description" : "Description", 
+    "post_text" : "1234567891012345678910", 
+    "file" : "blob:http://localhost:3001/5073e407-f583-4205-8663-fee6bfcfef27", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5df74ffe0cf86d464caa1f00"), 
+    "post_title" : "Min hest ", 
+    "post_description" : "Den danser tango", 
+    "post_text" : "", 
+    "file" : "blob:http://localhost:3001/1ffa676a-e669-4fcb-89c3-215c94164eae", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5df913c43a81f51190d9a9fe"), 
+    "post_title" : "Bedst til hest", 
+    "post_description" : "spørgsmål", 
+    "post_text" : "Hjæææælp!!!!!!! Er der nogen herinde som ved hvordan man finder sin hests stelnummer", 
+    "selectedFile" : null, 
+    "__v" : NumberInt(0)
+}

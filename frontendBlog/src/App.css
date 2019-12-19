@@ -1,0 +1,41 @@
+body {
+  
+  min-height: 100%;
+  min-height: 100vh;
+}
+footer {
+  
+  right: 0;bottom:0;left:0;
+  height: 100px;
+  background-color: #f8f9fa!important;
+}
+nav{
+  position: absolute;
+  right: 0;bottom:0;left:0;
+}
+
+.shorttext{
+  font-family: monospace;
+  width: 20ch;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.grid{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+
+}
+.post{
+  padding: 20px 20px 20px 20px;
+}
+ 
+.content { 
+  flex: 1 0 auto; 
+} 
+.footer {   
+  flex-shrink: 0; 
+}
